@@ -1,11 +1,24 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        for(int i =0 ; i<nums.size() ; i++){
-            nums[i]*=nums[i];
-        }
-        sort(nums.begin() , nums.end());
+        int n = nums.size();
+        vector<int>ans(n);
+        int start = 0;
+        int end = n-1;
+        int pointer = n-1;
 
-        return nums;
+        while(start <= end){
+            if(nums[start]*nums[start] >= nums[end]*nums[end]){
+                ans[pointer] = nums[start]*nums[start];
+                start++;
+                pointer--;
+            }
+            else{
+                ans[pointer] = nums[end]*nums[end];
+                end--;
+                pointer--;
+            }
+        }
+        return ans;
     }
 };
