@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0319-bulb-switcher) |
 | [0633-sum-of-square-numbers](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
