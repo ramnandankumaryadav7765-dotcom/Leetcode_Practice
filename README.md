@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0319-bulb-switcher) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
