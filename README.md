@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
