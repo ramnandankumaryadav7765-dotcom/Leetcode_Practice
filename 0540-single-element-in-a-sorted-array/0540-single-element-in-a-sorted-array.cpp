@@ -1,19 +1,47 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        unordered_map<int , int>mp;
-        for(int x : nums){
-            mp[x]++;
-        }
-        
-        for(auto x : mp){
-            if(x.second == 1){
-                return x.first;
+        int start = 0;
+        int end = nums.size() - 1;
+        while(start < end) {
+            int mid = start + (end - start) / 2;
+
+            // Make mid even
+            if(mid % 2 == 1) {
+                mid--;
+            }
+
+            if(nums[mid] == nums[mid + 1]) {
+                start = mid + 2;
+            }
+            else {
+                end = end = mid;;
             }
         }
-        return -1;
+
+        return nums[start];
     }
 };
+
+
+
+
+// class Solution {
+// public:
+//     int singleNonDuplicate(vector<int>& nums) {
+//         unordered_map<int , int>mp;
+//         for(int x : nums){
+//             mp[x]++;
+//         }
+        
+//         for(auto x : mp){
+//             if(x.second == 1){
+//                 return x.first;
+//             }
+//         }
+//         return -1;
+//     }
+// };
 
 
 
