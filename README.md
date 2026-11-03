@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
