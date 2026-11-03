@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0633-sum-of-square-numbers](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
@@ -114,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
