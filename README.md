@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 ## Bucket Sort
 |  |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
