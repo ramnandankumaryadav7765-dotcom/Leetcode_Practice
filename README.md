@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
 |  |
 | ------- |
