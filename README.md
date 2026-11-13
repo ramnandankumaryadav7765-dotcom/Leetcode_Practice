@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
@@ -221,4 +222,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
