@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Dynamic Programming
 |  |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
