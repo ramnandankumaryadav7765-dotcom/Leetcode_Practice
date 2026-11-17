@@ -6,13 +6,13 @@ public:
             pq.push(x);
         }
         while(pq.size() > 1){
-            int max = pq.top();
+            int heaviest = pq.top();
             pq.pop();
-            int secMax = pq.top();
+            int secondHeaviest = pq.top();
             pq.pop();
 
-            int val = max - secMax;
-            if(max > secMax){
+            int val = heaviest - secondHeaviest;
+            if(heaviest > secondHeaviest){
                 pq.push(val);
             }
         }
