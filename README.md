@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 ## Brainteaser
 |  |
 | ------- |
