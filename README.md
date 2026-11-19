@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/1046-last-stone-weight) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0881-boats-to-save-people](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
+| [0881-boats-to-save-people](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0881-boats-to-save-people](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -250,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
