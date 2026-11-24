@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0316-remove-duplicate-letters) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ramnandankumaryadav7765-dotcom/Leetcode_Practice/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
