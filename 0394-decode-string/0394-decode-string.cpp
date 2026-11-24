@@ -4,45 +4,40 @@ public:
 
         stack<pair<string, int>> st;
 
-        string currentString = "";
+        string current = "";
         int number = 0;
 
         for (int i = 0; i < s.length(); i++) {
-            if (s[i] >= '0' && s[i] <= '9') {
 
+            if (s[i] >= '0' && s[i] <= '9') {
                 number = number * 10 + (s[i] - '0');
             }
+
             else if (s[i] == '[') {
+                st.push({current, number});
 
-                st.push({currentString, number});
-
-                currentString = "";
+                current = "";
                 number = 0;
             }
+
             else if (s[i] == ']') {
 
                 pair<string, int> top = st.top();
                 st.pop();
 
-                string previousString = top.first;
-                int repeat = top.second;
+                string inner = current;
+                current = top.first;
 
-                string decoded = previousString;
-
-                for (int j = 0; j < repeat; j++) {
-                    decoded += currentString;
+                for (int j = 0; j < top.second; j++) {
+                    current += inner;
                 }
-
-                currentString = decoded;
-
             }
+
             else {
-
-                currentString += s[i];
-
+                current += s[i];
             }
         }
 
-        return currentString;
+        return current;
     }
 };
